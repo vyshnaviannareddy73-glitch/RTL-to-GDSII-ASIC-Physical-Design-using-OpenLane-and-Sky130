@@ -1,6 +1,4 @@
 # RTL-to-GDSII-ASIC-Physical-Design-using-OpenLane-and-Sky130
-# RTL-to-GDSII ASIC Physical Design using OpenLane and Sky130
-
 ## Overview
 This project demonstrates the complete ASIC Physical Design flow from RTL to GDSII using the OpenLane automated design flow and the Sky130 Process Design Kit (PDK). It covers all major stages of physical design, including synthesis, floorplanning, placement, clock tree synthesis (CTS), routing, and signoff.
 
